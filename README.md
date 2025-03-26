@@ -6,13 +6,13 @@ The **Jewelry Recommendation System** uses advanced image analysis and machine l
 
 - **[JewelRecs App Link](https://jewelryrecs.streamlit.app/)**
 
-![JewelRecs Screenshot](/Users/anekha/Documents/GitHub/jewelrecs/presentation/app_ex.png)
+![JewelRecs Screenshot](/presentation/app_ex.png)
 
 ## Project Poster
 
 For a detailed overview of this work, check out the project poster:
 
-📄 [Download the Poster (PDF)](/Users/anekha/Documents/GitHub/jewelrecs/presentation/project_presentation.pdf)
+📄 [Download the Poster (PDF)](/presentation/project_presentation.pdf)
 
 ## Features
 
