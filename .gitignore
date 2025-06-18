@@ -1,0 +1,23 @@
+# ML models and weights
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+training_nn/
+
+# Large data files (keep small examples only)
+models/*.json
+*.npy
+*.npz
+
+# Large presentation files
+presentation/*.pdf
+presentation/app_ex.png
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
